@@ -1,12 +1,10 @@
 # Snake-Ladder
 ## Chapter 1 :
 ### 1. INTRODUCTION
-We are developing a snake game using openGL. It is a game written in C language
+We are developing a snake game using openGL. It is a game written in C++ language
 using openGL based on the game called 'snake' which has been around since the
 earliest days of home computing and has re-emerged in recent years on mobile
-phones. The game graphics will be in 2D format. The snake is offered food at
-random places and it has to eat it. As it goes on eating, its size increases. It has to
-eat the food making sure it does not eat itself, in which case it dies.
+phones. The game graphics will be in 2D format.
 ### 1.1 Aim
 To develop a game “Snakes and Ladders” in which two two players can play the
 game without any physical board.
